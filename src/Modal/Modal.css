@@ -1,0 +1,19 @@
+.ModalBackground {
+    background-color: #74EBD5;
+    background-image: linear-gradient(90deg, #74EBD5 0%, #9fcde6 100%);
+    opacity: 95%; 
+    position: fixed;
+    top: 25%;
+    left: 25%;
+    right: 25%;
+    bottom: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 50%;
+    height:50%;
+    
+    
+    
+  }
